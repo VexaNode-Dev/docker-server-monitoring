@@ -1,0 +1,5 @@
+.env
+prometheus_data/
+grafana_data/
+*.log
+__pycache__/
